@@ -3,11 +3,13 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Hello World!</h1>
+	<h1>Welcome to Ootty!!! Nice to meet you :) ^_^ </h1>
 	<p>
-		It is now
+                 Today is
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from 
+		I am from 
 		<%= request.getRemoteAddr()  %></p>
+        <p>   
+               Hai how are you?</p>
 </body>
